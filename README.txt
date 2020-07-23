@@ -1,4 +1,4 @@
-#YelpReviewSentiment
+# YelpReviewSentiment
 This program uses Naive Bayes to determine whether on not a Yelp Review had positive or negative sentiment. The program trains itself using the training set and then makes a judgement about each of the Yelp reviews in the test set. 
 
 I have a make file included so to compile use the make command 
